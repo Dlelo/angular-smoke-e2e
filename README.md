@@ -1,4 +1,4 @@
-# angular-smoke-e2e
+# E2E and smoke test in angular using cypress
 
 
 ### Install dependencies:
