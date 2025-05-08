@@ -1,6 +1,10 @@
 # E2E and smoke test in angular using cypress
 
 
+![Screenshot 2025-05-08 at 20 27 44](https://github.com/user-attachments/assets/f19031b1-25b2-4a3a-bc6f-948fe58f5a1b)
+
+
+
 ### Install dependencies:
 
 ```shell
